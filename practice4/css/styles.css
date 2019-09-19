@@ -1,0 +1,47 @@
+h1 {
+	font-size: 48px;	
+}
+.post-heading {
+	color: #006633;
+	font-size: 1.8em;
+	text-align: center;	
+}
+#main-nav	{
+	font-size: 1.3em;	
+}
+#main-nav a:visited, 
+#main-nav a:link {/*this targets all anchor tags inside of the main nav class*/
+	text-decoration: none;
+
+}
+
+#main-nav a:hover, 
+#main-nav a:focus, 
+#main-nav a:active {
+	text-decoration: underline;
+}
+
+article p {
+	text-align: justify; /*justifies the main paragraph on the website*/
+	text-indent: 25px;
+}
+
+blockquote	{
+	color: #33ccff;
+	font-size: 1.3em;
+	font-style:italic;
+}
+
+.hero-image{
+	float:left;
+	width:640px;
+}
+
+.article-thumbs{
+	clear:both; /*tells browser to stop floating. Use when your intent is to start a new line*/
+	text-align: center; /*center aligns the images*/
+}
+
+.article-thumbs img{
+	width:200px;
+}
