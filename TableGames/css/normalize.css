@@ -1,0 +1,26 @@
+p{
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    text-indent:10px;
+}
+.blogPost{
+    margin: 15px auto;
+    padding: 15px 1.5em;
+    border: 1px double white;
+    background-color: black;
+    border-radius: 28px;
+    box-shadow: 5px 5px 0 rgb(168, 214, 168);
+}
+body{
+    background-image: -webkit-repeating-linear-gradient(45deg, green 15%, rgb(3, 48, 9) 50%,
+        rgb(41, 11, 212) 60%);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+}
+img{
+    width: 20em;
+    height: 20em;
+    float:right;
+    margin: 2px;
+}
