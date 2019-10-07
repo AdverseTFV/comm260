@@ -1,0 +1,42 @@
+h1{
+    font-size: 5em;
+    text-shadow: #FC0 1px 0 10px;
+    font-family: 'Shadows Into Light', sans-serif;
+    text-align: center;
+}
+h2{
+    font-family:'Mansalva';
+    text-align: center;
+    font-size: 2em;
+    text-shadow: #FC0 1px 0 10px;
+}
+#apps{
+    padding: 5px;
+    background-color: #efefef;
+    width: 30%;
+	float: left;
+	margin-left: 1%; 
+}
+.price{
+    color:red;
+}
+#salad{
+    width: 30%;
+    margin-left: 1%;
+    float:left; 
+    background-color:#efefef;  
+    padding: 5px; 
+}
+p{
+    font-size:1em;
+}
+#salad{
+    float:center;
+}
+#pizza{
+    padding: 5px;
+    background-color: #efefef;
+    width: 30%;
+	float: left;
+	margin-left: 1%;   
+}
